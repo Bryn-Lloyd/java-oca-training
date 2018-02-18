@@ -2,9 +2,6 @@ package uk.co.bryn.oca.misc;
 
 import java.util.ArrayList;
 
-/**
- * @author david.stevenson
- */
 public class StackOverflowExamples {
     public static void main(String[] args) {
         String a = "We are living in a <upcase>yellow submarine</upcase>. We don't have <upcase>anything</upcase>else.<upcase>dsadsa</upcase>";

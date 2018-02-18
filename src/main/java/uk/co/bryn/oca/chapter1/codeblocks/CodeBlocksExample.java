@@ -1,8 +1,5 @@
 package uk.co.bryn.oca.chapter1.codeblocks;
 
-/**
- * @author david.stevenson
- */
 public class CodeBlocksExample {
 
     {
